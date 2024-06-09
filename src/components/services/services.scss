@@ -109,6 +109,9 @@
       justify-content: space-between;
       @include mobile {
         border: none;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
       }
       p {
         @include mobile {
