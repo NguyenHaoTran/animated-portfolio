@@ -6,7 +6,7 @@ import Navbar from "./components/navbar/Navbar";
 import Parallax from "./components/parallax/Parallax";
 import Portfolio from "./components/portfolio/portfolio";
 import Services from "./components/services/Services";
-import Contact from "./contact/Contact";
+import Contact from "./components/contact/Contact";
 
 const App = () => {
   return (
